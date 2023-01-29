@@ -54,6 +54,8 @@ main {
     padding-bottom: 25px;
 }
 
+
+
 .card_inner button {
     padding: 8px 30px;
     margin-top: 10px;
@@ -121,7 +123,5 @@ main {
         grid-template-columns: 1fr;
     }
 
-    .card  img {
-        
-    }
+    
 }
